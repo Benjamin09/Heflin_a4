@@ -1,0 +1,18 @@
+$ cat .gitignore
+*.class
+
+# Bluej files
+*.ctxt
+doc/
+
+# Intellij files
+.idea/
+out/
+*.iml
+
+# Eclipse files
+bin/
+.metadata/
+.settings/
+.recommenders/
+RemoteStystemsTempFiles/
