@@ -1,4 +1,10 @@
 package Heflin.a4.helloWorld;
+/*
+Author: Benjamin Heflin
+Date: 2/5/2018
+Description: Simple Hello World Program
+Prints "Hello World and Name to window"
+ */
 
 public class HelloWorld {
 
